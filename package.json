@@ -7,9 +7,6 @@
     "build": "netlify-lambda build express",
     "start": "node server-local.js"
   },
-  "engines": {
-    "node": "12.x"
-  },
   "keywords": [
     "netlify",
     "express.js"

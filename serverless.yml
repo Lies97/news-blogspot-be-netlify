@@ -1,0 +1,4 @@
+plugins:
+  - serverless-webpack
+  
+externals: ['aws-sdk', 'chrome-aws-lambda'],

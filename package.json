@@ -20,6 +20,8 @@
     "cheerio": "^1.0.0-rc.10",
     "chrome-aws-lambda": "^10.1.0",
     "express": "^4.17.2",
+    "netlify": "^10.1.0",
+    "netlify-lambda": "^2.0.15",
     "puppeteer-core": "^13.0.1",
     "serverless-http": "^2.7.0"
   }

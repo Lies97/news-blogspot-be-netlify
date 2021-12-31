@@ -4,7 +4,7 @@ const serverless = require("serverless-http");
 const router = express.Router();
 const cheerio = require("cheerio");
 const chromium = require("chrome-aws-lambda");
-
+require('encoding');
 const app = express();
 let articles = [];
 
